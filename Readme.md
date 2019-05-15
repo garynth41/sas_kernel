@@ -1,4 +1,3 @@
-# SAS Kernel for Jupyter
 
 # Overview
 
